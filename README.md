@@ -25,7 +25,7 @@ const handleClick = (e: any) => {
 };
 ```
 
-###syntax:
+### syntax:
 generateSitemap( router.routes , 'your url')
 
 
